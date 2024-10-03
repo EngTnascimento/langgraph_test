@@ -1,0 +1,12 @@
+langgraph
+langsmith
+langchain
+langchain_community
+tiktoken
+langchain-nomic
+nomic[local]
+langchain-ollama
+scikit-learn
+langgraph
+tavily-python
+bs4
