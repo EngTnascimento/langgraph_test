@@ -63,17 +63,6 @@ To run the Adaptive RAG system, follow these steps:
       name: sentence-transformers/all-MiniLM-L6-v2
     ```
 
-## Project Structure
-
-```
-├── data/                # Local documents for embedding retrieval
-├── langgraph/           # LangGraph pipeline code
-├── config.yaml          # Configuration for local embeddings and search
-├── .env                 # Environment variables for web search and model paths
-├── run_rag.py           # Main script to execute RAG
-├── requirements.txt     # Python dependencies
-└── README.md            # This file
-```
 
 ## Customization
 
